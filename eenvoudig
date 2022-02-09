@@ -1,0 +1,4 @@
+getal = int(input("geef een getal"))
+import math
+kwadraat = math.pow(getal,2)
+print(kwadraat)
